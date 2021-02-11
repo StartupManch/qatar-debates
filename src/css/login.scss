@@ -1,0 +1,33 @@
+.registerForm,
+.loginForm{
+    margin-left: 550px;
+    margin-top: 100px;
+    width: 50%;
+    box-shadow: 0 0 5px 2px #d3e6e9;
+    padding: 50px;
+
+    h3{
+        text-align: center;
+    }
+}
+
+.logoutButton{
+    border: 1px solid;
+    border-radius: 30px;
+    padding: 0px 15px 0px 15px;
+    background-color: #10707f;
+    color: white;
+    font-size: 15px;
+}
+
+.userdropdown{
+    button{
+        padding: 0px 15px 0px 15px;
+        border-radius: 30px;
+        width: 120px;
+        background-color: powderblue;
+        color: black;
+    }
+}
+
+

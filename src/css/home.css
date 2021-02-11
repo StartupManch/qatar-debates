@@ -1,0 +1,52 @@
+.page-content-wrapper{
+    padding: 100px 0px 0px 15px
+}
+
+.pathBar{
+    display: flex;
+}
+
+.pathName{
+    display: flex;
+    width: 900px;
+    background-color: #c2e0e1;
+}
+
+.pathName svg {
+    font-size: 20px;
+    margin-right: 30px;
+    margin: 6px;
+}
+
+.pathName .pathTitle{
+    margin: 6px;
+}
+
+.pathLinks {
+    margin-left: 30px;
+}
+
+.pathLinks button{
+    margin-left: 10px;
+    color: black;
+    width: 120px;
+    background-color: white;
+}
+
+
+/* events css */
+
+.eventContent{
+    margin-top: 40px;
+}
+
+.eventContent .eventsCard {
+    border: 1px solid;
+    width: 500px;
+}
+
+.eventContent .eventsCard .eventTitle{
+    padding: 15px;
+    font-weight: bold;
+}
+
